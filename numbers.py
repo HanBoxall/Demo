@@ -1,0 +1,7 @@
+num_1 = int(input('Enter an integer: '))
+num_2 = int(input('Enter a different integer: '))
+num_3 = int(input('Enter a different integer: '))
+print(num_1 + num_2 + num_3)
+print(num_1 - num_2)
+print(num_3 * num_1)
+print(int((num_1 + num_2 + num_3) / num_3))

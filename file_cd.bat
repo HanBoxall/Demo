@@ -1,0 +1,9 @@
+mkdir Folder_One
+mkdir Folder_Two
+mkdir Folder_Three
+cd Folder_One
+mkdir Folder_A
+mkdir Folder_B
+mkdir Folder_C
+del Folder_A
+del Folder_B
